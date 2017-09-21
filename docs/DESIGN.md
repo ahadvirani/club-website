@@ -10,7 +10,7 @@ As this project is mostly filled with member new to the Web/ Websites/ Web Appli
 
 ## Resources 
 
-### **Homepage** Links
+### **Homepage Design** 
 
 1. It should clearly communicate 
   * Who we are 
@@ -26,8 +26,21 @@ As this project is mostly filled with member new to the Web/ Websites/ Web Appli
   * Facebook Link (with icon)
   * Slack Link (with icon)
 5. Should have Visual elements like pictures or hopefully a video that plays on loop (Maaybe of a combination of Matt lecturing and casual coding, and even a goofy clip of someone thumbs-upping a pull request)  
-  
-- **Link to useful resources**
-- **They can link to in depth information**
+
+### **Blog Page**
+
+### **Projects Page**
+
+1. 
+
+### **Affiliations Page**
+
+### **Contacts**
+
+### **Members**
+
+
+
+
 
 
