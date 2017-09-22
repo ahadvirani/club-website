@@ -18,5 +18,5 @@ Some awesome people who have made this project possible.
 - **Paul Le Grand, Github handle**
 - **Jennifer Sheldon, Github Handle**
 - **E.V. Phillips, Github Handle**
-- **Ahad Virani, Github handle**
+- **Ahad Virani, @ahadvirani
 
